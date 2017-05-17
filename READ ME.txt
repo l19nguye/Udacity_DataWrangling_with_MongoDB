@@ -1,0 +1,12 @@
+The purposes of files included for this submission.
+
+1. Area_infor.txt: link to donwload the full OSM file, description about the area, reasons I chose this area.
+
+
+2. Refer_links.txt: URLs, ebook which I used during the data wrangling process.
+
+3. sample.osm: the sample file contains the sample part of the full OSM file.
+
+4. Udacity_DataWrangling_Proj_by_LAM_NGUYEN.html: documentation of my data wrangling process.
+
+5. data_wrangling.py: file Python code which will clean and shape the data. It will extract a file JSON.

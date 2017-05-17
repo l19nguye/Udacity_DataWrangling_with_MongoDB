@@ -1,0 +1,21 @@
+Link for downloading OSM file: https://1drv.ms/u/s!AjgGcLmN8LzUgeYraKeJqrcIBxGIgA
+
+
+Description:
+
+..."The metropolitan area, which consists of the Ho Chi Minh City metropolitan area, Thu Dau Mot, Bien Hoa, Vung Tau, Di An, Thuan An and surrounding towns, is populated by more than 10 million people, making it the most populous metropolitan area in Vietnam. The city's population is expected to grow to 13.9 million by 2025.
+
+The Ho Chi Minh City Metropolitan Area, a metropolitan area covering most parts of the south-east region plus Tien Giang Province and Long An Province under planning, will have an area of 30,000 square kilometres (12,000 sq mi) with a population of 20 million inhabitants by 2020."...
+
+(Wiki link: https://en.wikipedia.org/wiki/Ho_Chi_Minh_City)
+
+
+The reasons I chose this area:
+ - it is one city in my country so I'm familiar with the language which users using to input data, it would be easier for me to find and correct the issues.
+ - this is the biggest city of Vietnam so only this area has the OSM data greater than 50 MB as this project requires.
+ - it is the 2nd city in the world's most dynamic cities (https://www.weforum.org/agenda/2017/01/these-are-the-most-dynamic-cities-in-the-world-and-they-re-not-the-ones-you-d-expect/) so that i'd like to introduce to you, hope more tourists would come to visit it.
+
+
+
+
+

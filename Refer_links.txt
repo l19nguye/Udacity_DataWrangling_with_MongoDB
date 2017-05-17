@@ -1,0 +1,33 @@
+1. List Districts of Ho Chi Minh City
+https://en.wikipedia.org/wiki/Category:Districts_of_Ho_Chi_Minh_City
+
+2. Postcodes in Vietnam
+https://en.wikipedia.org/wiki/Postal_codes_in_Vietnam
+
+3. add new Element into ElementTree
+http://infohost.nmt.edu/~shipman/soft/pylxml/web/Element-insert.html
+
+4. Documentation of ElementTree
+https://docs.python.org/3.4/library/xml.etree.elementtree.html
+
+5. create database in MongoDB
+https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
+
+6 mongoimport to import JSON file into database
+https://docs.mongodb.com/manual/reference/program/mongoimport/
+
+7. $or in MongoDB
+https://docs.mongodb.com/manual/reference/operator/query/or/
+
+8. db.collection.distinct()
+https://docs.mongodb.com/manual/reference/method/db.collection.distinct/
+
+9. get size of a file
+http://stackoverflow.com/questions/6591931/getting-file-size-in-python
+
+10. Ebook Dive into Python 3
+
+
+
+
+
